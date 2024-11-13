@@ -9,7 +9,7 @@ discord_webhook_url = "https://discord.com/api/webhooks/1213822293600509992/q6NW
 # Set up the web browser using Selenium
 browser = webdriver.Chrome()
 
-# Navigate to the Roblox website and log in if necessary
+# Navigate to the website and log in if necessary
 browser.get("https://www.example.com/")
 # Add code here to log in if necessary
 
